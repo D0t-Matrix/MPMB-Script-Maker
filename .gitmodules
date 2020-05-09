@@ -1,0 +1,4 @@
+[submodule "MPMB-TypeScript"]
+	path = MPMB-TypeScript
+	url = https://github.com/Smashman/MPMB-TypeScript
+	branch = TS-to-JS
